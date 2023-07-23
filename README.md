@@ -1,0 +1,2 @@
+## Life Tables
+A project to play around with the lifetables [(using ALT 2015-17)](https://aga.gov.au/publications/life-tables/australian-life-tables-2015-17) to make functions for expressing probabilities from the life table, and eventually expected present value of annuities and life products. 
